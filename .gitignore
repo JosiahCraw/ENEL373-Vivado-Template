@@ -1,0 +1,12 @@
+# ignore top-level temporary files
+/*.log
+/*.jou
+/*.str
+
+# ignore directories containing cached data
+/*.cache
+/*.hw
+/*.sim
+
+# ignore settings for this instance of Vivado
+/*.Xil
